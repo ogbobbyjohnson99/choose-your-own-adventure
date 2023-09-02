@@ -1,5 +1,9 @@
-print (f"Hello weary traveler. I am going to tell you a story of a high elf and there adventures of danger and peril")
+print (f"Hello weary traveler. I am going to tell you a story of an elf and there adventures of danger and peril")
 print(f"Before we get to the story I need to know a couples things about you")
 print(f"press the enter key after typing your answer")
 input(f"Press the enter key")
-
+gender = input("Are you a male or female elf?: ")
+race = input(" Are you a wood elf or a high elf?: ")
+startingWeapon = input(" what kind of weapon shall you be wielding on these adventures?: ")
+village = input("From what village do you come from?: ")
+name = input("Whar is the name of your character?: ")
